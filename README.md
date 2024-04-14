@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/usmansadiq-cs/"></a>
 </p>
-
 <div align="center">
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
 </div>
+
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-cs&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
