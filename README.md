@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/usmansadiq-cs/">
+  <a href="https://www.linkedin.com/in/usmansadiq-cs/"></a>
 </p>
 
 <div align="center">
