@@ -18,6 +18,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
 </div>
 
 <div align="center">
