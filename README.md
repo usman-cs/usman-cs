@@ -17,10 +17,10 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-cs&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=usman-cs&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
+</div> -->
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=usman-cs&theme=algolia&background=0d1117&hide_border=true" />
 </div>
