@@ -13,7 +13,7 @@ Computer Vision · Medical Image Analysis · Machine Learning
 
 I work on deep learning and computer vision, with a particular interest in medical image segmentation. My research explores 3D vision transformers, U-Net architectures, and attention mechanisms for brain tumor analysis.
 
-- **Research:** Co-author of publications in IEEE Access (2026) and the International Conference on Frontiers of Information Technology (FIT 2024).
+- **Research:** Author and Co-author of publications in IEEE Access (2026) and the International Conference on Frontiers of Information Technology (FIT 2024).
 - **Experience:** AI work at the Artificial Intelligence Technology Center (AITeC) and research experience at the AI Diagnostics Lab, FAST-NUCES.
 - **Education:** MS in Data Science, FAST-NUCES; BS in Computer Science, COMSATS University.
 - **Other interests:** Python development, data analysis, automation, cybersecurity, and data engineering.
