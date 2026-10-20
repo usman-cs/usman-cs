@@ -43,17 +43,17 @@ I have also worked on a malware detection desktop application using machine lear
 **Computer vision:** OpenCV, CNNs, vision transformers, medical image segmentation  
 **Data engineering and tooling:** Apache Kafka, Apache Hadoop, Git
 
+
 ## GitHub activity
 
 <div align="center">
 
-<img src="./profile/github-activity.svg?v=2" width="780" alt="GitHub repository and contribution statistics, including private repository count" />
+<img src="./profile/github-activity.svg?v=2" width="780" alt="GitHub repository and contribution statistics" />
 
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=usman-cs&include_all_commits=true&show_icons=false&hide_rank=true&hide_border=true&theme=transparent" alt="Public GitHub statistics including commits" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-cs&layout=compact&hide_border=true&theme=transparent" alt="Languages in public GitHub repositories" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-cs&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
 </div>
+
 
 The first card is generated from the GitHub API by an hourly workflow and includes counts from private repositories after its token is configured. Only aggregate numbers are published; repository names and other private details remain hidden. Stats refresh automatically, but GitHub API updates, scheduled workflows, and image caching can cause delays.
 
