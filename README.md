@@ -47,7 +47,8 @@ I have also worked on a malware detection desktop application using machine lear
 
 <div align="center">
 
-<img src="./profile/github-activity.svg" width="780" alt="GitHub repository and contribution statistics, including private repository count" />
+<img src="./profile/github-activity.svg?v=2" width="780" alt="GitHub repository and contribution statistics, including private repository count" />
+
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=usman-cs&include_all_commits=true&show_icons=false&hide_rank=true&hide_border=true&theme=transparent" alt="Public GitHub statistics including commits" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-cs&layout=compact&hide_border=true&theme=transparent" alt="Languages in public GitHub repositories" />
