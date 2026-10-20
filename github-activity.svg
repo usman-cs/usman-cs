@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="185" viewBox="0 0 780 185" role="img" aria-label="GitHub activity card setup required">
+  <rect x="1" y="1" width="778" height="183" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="41" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">GitHub overview</text>
+  <line x1="28" y1="56" x2="752" y2="56" stroke="#30363d"/>
+  <text x="28" y="98" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c9d1d9">Awaiting first authenticated refresh</text>
+  <text x="28" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Add the PROFILE_STATS_TOKEN secret and run the GitHub Actions workflow.</text>
+  <text x="28" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Private repository names and contents are never published.</text>
+</svg>
