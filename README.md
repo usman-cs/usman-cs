@@ -55,10 +55,6 @@ I have also worked on a malware detection desktop application using machine lear
 </div>
 
 
-The first card is generated from the GitHub API by an hourly workflow and includes counts from private repositories after its token is configured. Only aggregate numbers are published; repository names and other private details remain hidden. Stats refresh automatically, but GitHub API updates, scheduled workflows, and image caching can cause delays.
-
-[View my GitHub contribution history](https://github.com/usman-cs)
-
 ## Contact
 
 You can reach me through [LinkedIn](https://www.linkedin.com/in/usmansadiq-cs/) or [email](mailto:usmansadiq.cs@gmail.com). My research profile is also available on [ORCID](https://orcid.org/0009-0004-1160-4333).
