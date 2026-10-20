@@ -1,8 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="185" viewBox="0 0 780 185" role="img" aria-label="GitHub activity card setup required">
-  <rect x="1" y="1" width="778" height="183" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <text x="28" y="41" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">GitHub overview</text>
-  <line x1="28" y1="56" x2="752" y2="56" stroke="#30363d"/>
-  <text x="28" y="98" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c9d1d9">Awaiting first authenticated refresh</text>
-  <text x="28" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Add the PROFILE_STATS_TOKEN secret and run the GitHub Actions workflow.</text>
-  <text x="28" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">Private repository names and contents are never published.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="185" viewBox="0 0 780 185" role="img" aria-label="GitHub profile repository and contribution counts">
+<rect x="1" y="1" width="778" height="183" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="35" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">GitHub overview</text>
+<text x="752" y="35" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">Rolling 12 months for contributions</text>
+<line x1="28" y1="51" x2="752" y2="51" stroke="#30363d"/>
+<text x="28" y="103" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">4</text>
+<text x="28" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#a5adb8">Private repositories</text>
+<line x1="199" y1="70" x2="199" y2="145" stroke="#30363d"/>
+<text x="214" y="103" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">17</text>
+<text x="214" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#a5adb8">Public repositories</text>
+<line x1="385" y1="70" x2="385" y2="145" stroke="#30363d"/>
+<text x="400" y="103" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">8</text>
+<text x="400" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#a5adb8">Commit contributions</text>
+<line x1="571" y1="70" x2="571" y2="145" stroke="#30363d"/>
+<text x="586" y="103" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">9</text>
+<text x="586" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#a5adb8">All contributions</text>
+<text x="28" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8b949e">Private repositories are counted, not identified. Commits are GitHub contribution-counted commits.</text>
 </svg>
